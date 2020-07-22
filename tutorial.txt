@@ -1,0 +1,6 @@
+Step 1 : Install python3 in your system
+Step 2 : Then go inside the project directory
+Step 3 : Open terminal
+Step 4 : Then write ' source myvenv/bin/activate ' in the terminal
+Step 5 : Install all the required library by write this code in terminal ' pip3 install -r requirements.txt '
+Step 6 : Now finally run the program by writing ' python3 mat.py ' in terminal
